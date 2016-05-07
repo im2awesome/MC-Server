@@ -1,0 +1,30 @@
+general:
+  level: 3.57
+  warpLocationX: 0
+  warpLocationY: 0
+  warpLocationZ: 0
+  warpActive: false
+  regionVersion: 12 en
+  schematicName: island
+blocks:
+  leafBreaks: 1
+version: 1
+log:
+- 1462445989112;The island has been created.
+- 1462445988155;The island has been created.
+party:
+  leader: SwordSin
+  members:
+    SwordSin:
+      canChangeBiome: true
+      canToggleLock: true
+      canChangeWarp: true
+      canToggleWarp: true
+      canInviteOthers: true
+      canKickOthers: true
+      canBanOthers: true
+      maxAnimals: 48
+      maxMonsters: 50
+      maxVillagers: 16
+      maxGolems: 5
+  currentSize: 1

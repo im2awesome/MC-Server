@@ -1,0 +1,16 @@
+spawnnorth:
+  location: world, 76.412, 68.200, 230.536
+  lines:
+  - '&6Welcome to &6&lMajorSkies'
+spawneast:
+  location: world, 80.061, 68.200, 234.557
+  lines:
+  - '&6Welcome to &6&lMajorSkies'
+spawnsouth:
+  location: world, 76.470, 68.200, 238.237
+  lines:
+  - '&6Welcome to &6&lMajorSkies'
+spawnwest:
+  location: world, 72.995, 68.200, 234.651
+  lines:
+  - '&6Welcome to &6&lMajorSkies'

@@ -1,0 +1,13 @@
+player:
+  hasIsland: true
+  islandX: 0
+  islandY: 150
+  islandZ: -128
+  homeX: 1
+  homeY: 150
+  homeZ: -128
+  homeYaw: 0.0
+  homePitch: -0.0
+  displayName: §6§l[§c§lAdmin§6§l]§bnulsen§r
+  uuid: ff304ec8-0640-4083-a36d-2582428ad90c
+version: 1

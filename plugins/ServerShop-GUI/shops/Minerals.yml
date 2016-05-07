@@ -1,0 +1,8 @@
+stock:
+  '0':
+    Type: Item
+    Reward: ink_sack:4
+    Pricetype: Money
+    Price: 1280.0
+    Sell: 128.0
+    Amount: 32

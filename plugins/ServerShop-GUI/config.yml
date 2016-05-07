@@ -1,0 +1,30 @@
+main:
+  slots: 27
+  enableCommand: true
+  enableItem: false
+  shopOpenWithItem: Compass
+  blockbuyablecommands: true
+  EnableLogs: false
+  EnableClickSound: true
+  EnableMetrics: true
+  Item_Currency: EMERALD
+  Debug: false
+  firststart: false
+  EnableSlotPermissions: false
+list:
+  '0':
+    size: 36
+    name: Blocks
+    icon: Wood
+    description:
+    - '&6Here you can buy blocks'
+    returnbutton: true
+  '1':
+    size: 36
+    name: Minerals
+    icon: Diamond
+    description:
+    - '&6Here you can buy minerals'
+    returnbutton: true
+NPC:
+  '0': Blocks

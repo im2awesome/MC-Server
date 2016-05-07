@@ -1,0 +1,121 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Helper:
+    default: false
+    permissions:
+    - essentials.build
+    - essentials.fly
+    - essentials.protect
+    - essentials.protect.entitytarget.bypass
+    inheritance:
+    - member
+    info:
+      build: false
+      prefix: '&2&l[&d&lHelper&2&l]&b'
+      suffix: ''
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&5'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - -vanish.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&5&l[&1&lO&2&lw&3&ln&4&le&6&lr&5&l]&b'
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&2'
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&6&l[&c&lAdmin&6&l]&b'
+      suffix: ''
+  Default:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&e'
+      suffix: ''
+  Member:
+    default: true
+    permissions:
+    - essentials.bal
+    - essentials.balance
+    - essentials.spawn
+    - shop.open
+    - shop.open.blocks
+    - shop.open.minerals
+    - usb.biome.*
+    - usb.extra.hunger4
+    - usb.island.ban
+    - usb.island.challenges
+    - usb.island.create
+    - usb.island.home
+    - usb.island.info
+    - usb.island.level
+    - usb.island.lock
+    - usb.island.log
+    - usb.island.makeleader
+    - usb.island.restart
+    - usb.island.sethome
+    - usb.island.setwarp
+    - usb.island.spawn
+    - usb.island.togglewarp
+    - usb.island.top
+    - usb.island.trust
+    - usb.island.warp
+    - usb.schematic.island
+    inheritance: []
+    info:
+      build: false
+      prefix: '&3&l[&a&lMember&3&l]&7'
+      suffix: ''

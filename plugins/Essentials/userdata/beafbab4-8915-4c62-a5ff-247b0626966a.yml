@@ -1,0 +1,22 @@
+lastAccountName: PlayingDragon
+timestamps:
+  login: 1462551369794
+  lastteleport: 1462551484510
+  logout: 1462546816067
+ipAddress: 192.168.0.10
+lastlocation:
+  world: world
+  x: -4.164126978109981
+  y: 118.83993869277917
+  z: 142.1873427685373
+  yaw: 104.850266
+  pitch: 58.2
+logoutlocation:
+  world: world
+  x: 76.35549453352934
+  y: 122.49399242194322
+  z: 234.9454302295222
+  yaw: 186.30095
+  pitch: -84.90007
+afk: false
+money: '995275.875'

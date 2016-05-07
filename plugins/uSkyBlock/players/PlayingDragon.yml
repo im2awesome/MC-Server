@@ -1,0 +1,13 @@
+player:
+  hasIsland: true
+  islandX: 0
+  islandY: 150
+  islandZ: 128
+  homeX: 0
+  homeY: 150
+  homeZ: 128
+  homeYaw: 0.0
+  homePitch: -0.0
+  displayName: §5§l[§1§lO§2§lw§3§ln§4§le§6§lr§5§l]§bPlayingDragon§r
+  uuid: beafbab4-8915-4c62-a5ff-247b0626966a
+version: 1

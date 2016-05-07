@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "5731893d-bf79-49bc-aff7-e5f600e2b522",
+    "name": "SweetMelonMan",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "beafbab4-8915-4c62-a5ff-247b0626966a",
+    "name": "PlayingDragon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ff304ec8-0640-4083-a36d-2582428ad90c",
+    "name": "nulsen",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,52 @@
+general:
+  level: 14.327845726811988
+  warpLocationX: 0
+  warpLocationY: 0
+  warpLocationZ: 0
+  warpActive: false
+  regionVersion: 12 en
+  schematicName: skySMP
+blocks:
+  leafBreaks: 1
+version: 1
+log:
+- 1462548222922;§b{0}§d has joined your island group.;§eSweetMelonMan§r
+- 1462548201039;{0}§d invited {1};§5§l[§1§lO§2§lw§3§ln§4§le§6§lr§5§l]§bPlayingDragon§r;§eSweetMelonMan§r
+- 1462373071418;The island has been created.
+- 1462373071111;The island has been created.
+- 1462356074857;The island has been created.
+- 1462356074636;The island has been created.
+- 1462356047929;The island has been created.
+- 1462356047698;The island has been created.
+- 1462355675754;The island has been created.
+- 1462355675403;The island has been created.
+party:
+  leader: PlayingDragon
+  members:
+    PlayingDragon:
+      canChangeBiome: true
+      canToggleLock: true
+      canChangeWarp: true
+      canToggleWarp: true
+      canInviteOthers: true
+      canKickOthers: true
+      canBanOthers: true
+      maxPartySizePermission: 8
+      maxAnimals: 48
+      maxMonsters: 50
+      maxVillagers: 16
+      maxGolems: 5
+    SweetMelonMan:
+      canChangeBiome: false
+      canToggleLock: false
+      canChangeWarp: false
+      canToggleWarp: false
+      canInviteOthers: false
+      canKickOthers: false
+      canBanOthers: false
+      maxPartySizePermission: 8
+      maxAnimals: 48
+      maxMonsters: 50
+      maxVillagers: 16
+      maxGolems: 5
+  currentSize: 2

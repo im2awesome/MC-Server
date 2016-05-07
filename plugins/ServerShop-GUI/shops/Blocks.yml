@@ -1,0 +1,93 @@
+stock:
+  '0':
+    Type: Item
+    Reward: Grass
+    Pricetype: Money
+    Price: 1280.0
+    Sell: 128.0
+    Amount: 16
+  '1':
+    Type: Item
+    Reward: Dirt
+    Pricetype: Money
+    Price: 1280.0
+    Sell: 128.0
+    Amount: 32
+  '2':
+    Type: Item
+    Reward: Stone
+    Pricetype: Money
+    Price: 960.0
+    Sell: 96.0
+    Amount: 64
+  '3':
+    Type: Item
+    Reward: Cobblestone
+    Pricetype: Money
+    Price: 640.0
+    Sell: 64.0
+    Amount: 64
+  '4':
+    Type: Item
+    Reward: Log:1
+    Pricetype: Money
+    Price: 960.0
+    Sell: 80.0
+    Amount: 32
+  '5':
+    Type: Item
+    Reward: Log:2
+    Pricetype: Money
+    Price: 960.0
+    Sell: 80.0
+    Amount: 32
+  '6':
+    Type: Item
+    Reward: Log:3
+    Pricetype: Money
+    Price: 960.0
+    Sell: 80.0
+    Amount: 32
+  '7':
+    Type: Item
+    Reward: 162
+    Pricetype: Money
+    Price: 960.0
+    Sell: 80.0
+    Amount: 32
+  '8':
+    Type: Item
+    Reward: log_2:1
+    Pricetype: Money
+    Price: 960.0
+    Sell: 80.0
+    Amount: 32
+  '9':
+    Type: Item
+    Reward: 12
+    Pricetype: Money
+    Price: 960.0
+    Sell: 96.0
+    Amount: 32
+  '10':
+    Type: Command
+    Reward: Wood:4
+    Pricetype: Money
+    Displayname: Multiple Commands is &cNEW!
+    lore:
+    - '&eThis is a new Feature '
+    - '&eIt will run multple commands'
+    - in this case give and a say announce!
+    Command: give %player% wood:say %player% has just bought the wood package!
+    Price: 15
+  '11':
+    Type: Command
+    Reward: Wood:4
+    Pricetype: Money
+    Displayname: Wood Reward
+    lore:
+    - '&eThis is a new Feature '
+    - '&eIt will run multple commands'
+    - in this case give and a say announce!
+    Command: give %player% wood 64
+    Price: 50

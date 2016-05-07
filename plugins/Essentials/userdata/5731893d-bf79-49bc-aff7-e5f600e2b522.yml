@@ -1,0 +1,20 @@
+lastAccountName: SweetMelonMan
+timestamps:
+  login: 1462551371608
+  logout: 1462549826350
+  lastteleport: 1462377012276
+ipAddress: 192.168.0.16
+lastlocation:
+  world: skyworld
+  x: 18.46271582745256
+  y: 143.0
+  z: 138.66963606660107
+  yaw: -327.89978
+  pitch: 22.949993
+logoutlocation:
+  world: skyworld
+  x: 16.31831178939927
+  y: 143.0
+  z: 126.43864777068512
+  yaw: -300.00537
+  pitch: -1.6499671

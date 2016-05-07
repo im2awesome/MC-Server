@@ -1,0 +1,13 @@
+player:
+  hasIsland: true
+  islandX: -128
+  islandY: 150
+  islandZ: 0
+  homeX: -127
+  homeY: 150
+  homeZ: 0
+  homeYaw: 0.0
+  homePitch: -0.0
+  displayName: §3§l[§a§lMember§3§l]§7fried_dwarf§r
+  uuid: 1bffe20f-7b38-4106-8120-ca95553437ef
+version: 1

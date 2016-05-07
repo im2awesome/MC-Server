@@ -1,0 +1,21 @@
+lastAccountName: SwordSin
+timestamps:
+  login: 1462451821764
+  lastteleport: 1462450133561
+  logout: 1462451813434
+ipAddress: 122.172.49.168
+lastlocation:
+  world: world
+  x: 65.10682785559598
+  y: 65.0
+  z: 252.4715212615886
+  yaw: -311.54724
+  pitch: 15.149969
+money: '54473.0'
+logoutlocation:
+  world: skyworld
+  x: -127.81856823013615
+  y: 161.41666666666643
+  z: -121.62268817281058
+  yaw: -65.39841
+  pitch: 17.250004

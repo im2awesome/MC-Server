@@ -1,0 +1,31 @@
+general:
+  level: 3.78
+  warpLocationX: 0
+  warpLocationY: 0
+  warpLocationZ: 0
+  warpActive: false
+  regionVersion: 12 en
+  schematicName: island
+blocks:
+  leafBreaks: 1
+version: 1
+log:
+- 1462374156308;The island has been created.
+- 1462374155945;The island has been created.
+party:
+  leader: SweetMelonMan
+  members:
+    SweetMelonMan:
+      canChangeBiome: true
+      canToggleLock: true
+      canChangeWarp: true
+      canToggleWarp: true
+      canInviteOthers: true
+      canKickOthers: true
+      canBanOthers: true
+      maxPartySizePermission: 8
+      maxAnimals: 48
+      maxMonsters: 50
+      maxVillagers: 16
+      maxGolems: 5
+  currentSize: 1

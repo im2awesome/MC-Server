@@ -1,0 +1,13 @@
+player:
+  hasIsland: true
+  islandX: -128
+  islandY: 150
+  islandZ: -128
+  homeX: -127
+  homeY: 150
+  homeZ: -128
+  homeYaw: 0.0
+  homePitch: -0.0
+  displayName: §2§l[§d§lHelper§2§l]§bSwordSin§r
+  uuid: 2f8e6e9d-3ea0-400d-8cd2-74fc1c3e9130
+version: 1
